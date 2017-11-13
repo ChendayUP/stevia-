@@ -51,8 +51,8 @@ class ViewController: UIViewController {
             |-email-| ~ 80,
             8,
             |-20-password-20-forgot-| ~ 80,
-            2000,
-            |login| ~ 80,
+            10,
+            login.size(100).right(10%),
             10
         )
         
